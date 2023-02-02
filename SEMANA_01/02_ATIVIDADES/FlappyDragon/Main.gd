@@ -1,5 +1,5 @@
 extends Node # instancia a classe Node2D
-
+#minha primeira linha
 var status = 1
 var vscore = 0
 var x = 1.5 
